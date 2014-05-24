@@ -1,0 +1,11 @@
+Documentation/
+NMSSHTests/Settings/config.yml
+.DS_Store
+xcworkspacedata
+xcuserdata
+*.xcuserstate
+*.xcscheme
+*.plist
+NMSSH.framework
+*.xcworkspacedata
+*.xccheckout
